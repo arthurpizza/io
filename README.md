@@ -1,5 +1,5 @@
 # io
-This is an attempt to write a book on github and locally in vim.
+This is an attempt to write a book with git and locally in vim.
 
 The goal is to compile the book into an epub and allow uses to simply git the book.
 
